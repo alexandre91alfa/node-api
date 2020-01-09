@@ -1,0 +1,4 @@
+# gitignore
+
+log_mongo.txt
+node_modules/
