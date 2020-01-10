@@ -14,6 +14,7 @@ app.use(bodyParse.urlencoded({
   extended: false
 }))
 app.set('json spaces', 2)
+app.use(express.json())
 
 router(app)
 

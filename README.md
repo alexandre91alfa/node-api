@@ -2,5 +2,6 @@
 
 -node api
 
-#docker
+# docker
+
 -para inicia o docker usar docker.sh se usar linux.
